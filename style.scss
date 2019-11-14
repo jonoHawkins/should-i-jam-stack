@@ -30,6 +30,11 @@ label {
 input {
     font: inherit;
     margin: 14px;
+    border: 0;
+    border-bottom: 2px #7c8d95 solid;
+    padding: 5px 10px 3px;
+    border-radius: 3px 3px 0 0;
+    color: #466c7d;
 }
 
 button {
